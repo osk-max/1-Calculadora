@@ -1,0 +1,1 @@
+prompt('Sincronizado JS-HTML');
